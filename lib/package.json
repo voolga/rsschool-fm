@@ -1,0 +1,7 @@
+{
+  "name": "file-manager",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
